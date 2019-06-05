@@ -6,6 +6,11 @@ Data includes road network information from Melbourne, Australia and simulated l
 
 Data is in tabular format and includes multiple columns as below:
 
-Column 1: Link ID Column 2: Link length (meter) Column 3: Speed limit Column 4-7: Coordinates of the start and end of each link Column 8-39: Link volumes for different simulation time intervals starting from 6:00 AM and increasing in 15-minute intervals Column 40-71: Link speeds for different simulation time intervals starting from 6:00 AM and increasing in 15-minute intervals
+Column 1: Link ID
+Column 2: Link length (meter)
+Column 3: Speed limit
+Column 4-7: Coordinates of the start and end of each link
+Column 8-39: Link volumes for different simulation time intervals starting from 6:00 AM and increasing in 15-minute intervals
+Column 40-71: Link speeds for different simulation time intervals starting from 6:00 AM and increasing in 15-minute intervals
 
 Different simulated demand levels include 100%, 120%, 150%, 175%, and 200%.
